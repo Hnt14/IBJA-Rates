@@ -1,0 +1,11 @@
+{
+  "name": "IBJA Gold & Silver",
+  "short_name": "IBJA Rates",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#14110c",
+  "theme_color": "#14110c",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
